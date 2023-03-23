@@ -1,0 +1,602 @@
+@media all and (max-width: 1513px) {
+  .image__me {
+    width: 51%;
+  }
+  .info__main {
+    font-size: 38px;
+  }
+  .com {
+    font-size: 20px;
+  }
+  .web {
+    font-size: 20px;
+  }
+  .team {
+    font-size: 20px;
+  }
+  .leader {
+    font-size: 20px;
+  }
+  .mob {
+    font-size: 20px;
+  }
+  .navbar__icon {
+    width: 4%;
+  }
+}
+
+@media all and (max-width: 1451px) {
+  .info__main {
+    font-size: 36px;
+  }
+  .skills {
+    font-size: 36px;
+  }
+  .web1 {
+    font-size: 22px;
+  }
+  .com1 {
+    font-size: 22px;
+  }
+  .team1 {
+    font-size: 22px;
+  }
+  .leader1 {
+    font-size: 22px;
+  }
+  .mob1 {
+    font-size: 22px;
+  }
+  .block1 {
+    padding-top: 7px;
+    font-size: 38px;
+  }
+}
+
+@media all and (max-width: 1375px) {
+  .info__main {
+    font-size: 34px;
+  }
+}
+
+@media all and (max-width: 1295px) {
+  .image__me {
+    height: 470px;
+  }
+  .info__main {
+    font-size: 32px;
+  }
+  .info__desc {
+    font-size: 18px;
+  }
+  .web {
+    font-size: 19px;
+  }
+  .com {
+    font-size: 19px;
+  }
+  .team {
+    font-size: 19px;
+  }
+  .leader {
+    font-size: 19px;
+  }
+  .mob {
+    font-size: 19px;
+  }
+  .navbar__icon {
+    width: 5%;
+  }
+}
+
+@media all and (max-width: 1239px) {
+  .image__me {
+    height: 417px;
+  }
+  .info__main {
+    font-size: 31px;
+  }
+  .web {
+    font-size: 17px;
+  }
+  .com {
+    font-size: 17px;
+  }
+  .team {
+    font-size: 17px;
+  }
+  .leader {
+    font-size: 17px;
+  }
+  .mob {
+    font-size: 17px;
+  }
+  .block1 {
+    padding: 0;
+    font-size: 34px;
+  }
+  .education__item {
+    font-size: 19px;
+  }
+  .education__item {
+    font-size: 18px;
+  }
+}
+
+@media all and (max-width: 1166px) {
+  .image__me {
+    width: 54%;
+  }
+  .skills {
+    font-size: 34px;
+  }
+  .education__item {
+    font-size: 17px;
+  }
+  .loc {
+    font-size: 19px;
+  }
+  .navbar__icon {
+    width: 6%;
+  }
+}
+
+@media all and (max-width: 1145px) {
+  .web {
+    width: 34%;
+    font-size: 19px;
+  }
+  .com {
+    width: 29%;
+    font-size: 19px;
+  }
+  .team {
+    font-size: 19px;
+
+    width: 35%;
+  }
+  .leader {
+    width: 31%;
+    font-size: 19px;
+  }
+  .mob {
+    width: 22%;
+    font-size: 19px;
+  }
+  .container {
+    gap: 6%;
+  }
+}
+
+@media all and (max-width: 1000px) {
+  .info__main {
+    font-size: 25px;
+  }
+  .navbar {
+    height: 70px;
+  }
+  a {
+    font-size: large;
+  }
+  .info__desc {
+    font-size: 17px;
+  }
+  .skills {
+    font-size: 30px;
+  }
+  .block1 {
+    font-size: 30px;
+  }
+  .education__item {
+    font-size: 16px;
+  }
+  .loc {
+    font-size: 18px;
+  }
+  .image__me {
+    height: 357px;
+  }
+}
+
+@media all and (max-width: 962px) {
+  .info__main {
+    font-size: 22px;
+  }
+  .info__desc {
+    margin-top: 27px;
+    font-size: 16px;
+  }
+  .skills {
+    font-size: 27px;
+  }
+  .block1 {
+    font-size: 27px;
+  }
+}
+
+@media all and (max-width: 856px) {
+  .info__desc {
+    font-size: 14px;
+  }
+  .image__m {
+    height: 320px;
+  }
+  .skills {
+    font-size: 25px;
+  }
+  .web {
+    font-size: 18px;
+    width: 50%;
+  }
+  .com {
+    font-size: 18px;
+    width: 45%;
+  }
+  .team {
+    font-size: 18px;
+    width: 51%;
+  }
+  .leader {
+    font-size: 18px;
+    width: 47%;
+  }
+  .mob {
+    font-size: 18px;
+    width: 38%;
+  }
+  .block1 {
+    font-size: 25px;
+  }
+  .education__item {
+    font-size: 14px;
+  }
+  .web1 {
+    font-size: 21px;
+  }
+  .com1 {
+    font-size: 21px;
+  }
+  .team1 {
+    font-size: 21px;
+  }
+  .leader1 {
+    font-size: 21px;
+  }
+  .mob1 {
+    font-size: 21px;
+  }
+  .footer__right P {
+    padding-top: 153px;
+  }
+  .image__me {
+    height: 318px;
+  }
+}
+
+@media all and (max-width: 817px) {
+  .info__desc {
+    font-size: 13px;
+  }
+  .skills {
+    font-size: 24px;
+  }
+  .img {
+    width: 42%;
+  }
+  .navbar {
+    height: 63px;
+  }
+  .navbar__item {
+    padding-top: 18px;
+  }
+  .footer__right {
+    padding-top: 143px;
+  }
+}
+
+@media all and (max-width: 700px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .image__me {
+    width: 85%;
+  }
+  .info__main {
+    margin-top: 50px;
+    font-size: 25px;
+  }
+  .info {
+    width: 85%;
+  }
+  .info__desc {
+    font-size: 14px;
+  }
+}
+
+@media all and (max-width: 550px) {
+  .navbar__icon {
+    width: 9%;
+  }
+  .education__item {
+    font-size: 12px;
+  }
+  .loc {
+    font-size: 16px;
+  }
+  a {
+    width: 15%;
+  }
+  .footer__right {
+    padding-top: 120px;
+  }
+  .block__main {
+    margin-top: 23px;
+  }
+  .block1 {
+    margin-bottom: 30px;
+  }
+  .education {
+    width: 12%;
+  }
+}
+
+@media all and (max-width: 600px) {
+  .web1 {
+    font-size: 18px;
+    height: 40px;
+  }
+  .com1 {
+    font-size: 18px;
+    height: 40px;
+  }
+  .team1 {
+    font-size: 18px;
+    height: 40px;
+  }
+  .leader1 {
+    font-size: 18px;
+    height: 40px;
+  }
+  .mob1 {
+    font-size: 18px;
+    height: 40px;
+  }
+  .web {
+    font-size: 17px;
+    width: 60%;
+    height: 40px;
+  }
+  .com {
+    font-size: 17px;
+    width: 55%;
+    height: 40px;
+  }
+  .team {
+    font-size: 17px;
+    width: 61%;
+    height: 40px;
+  }
+  .leader {
+    font-size: 17px;
+    width: 57%;
+    height: 40px;
+  }
+  .mob {
+    font-size: 17px;
+    width: 48%;
+    height: 40px;
+  }
+  .education__item {
+    font-size: 13px;
+  }
+  .block1 {
+    margin-bottom: 30px;
+  }
+  .education {
+    width: 11%;
+  }
+  .loc__desc {
+    font-size: 15px;
+  }
+  .navbar__icon {
+    width: 9%;
+  }
+  .block {
+    width: 90%;
+  }
+}
+
+@media all and (max-width: 530px) {
+  .web1 {
+    width: 24%;
+  }
+  .com1 {
+    width: 29%;
+  }
+  .team1 {
+    width: 23%;
+  }
+  .leader1 {
+    width: 27%;
+  }
+  .mob1 {
+    width: 36%;
+  }
+  .education__item {
+    font-size: 12px;
+  }
+}
+
+@media all and (max-width: 462px) {
+  .image__me {
+    height: 253px;
+  }
+  .info__main {
+    font-size: 20px;
+  }
+  .info__desc {
+    font-size: 13px;
+  }
+  .navbar {
+    height: 55px;
+  }
+  a {
+    font-size: medium;
+  }
+  .skills {
+    font-size: 22px;
+  }
+  .block1 {
+    margin-bottom: 23px;
+  }
+  .education__item {
+    font-size: 11px;
+  }
+  .loc {
+    font-size: 15px;
+  }
+  .loc__desc {
+    font-size: 14px;
+  }
+  .icon {
+    width: 35%;
+    padding-top: 30px;
+  }
+}
+
+@media all and (max-width: 440px) {
+  .navbar {
+    height: 50px;
+  }
+  a {
+    font-size: small;
+  }
+  .navbar__item {
+    padding-top: 11px;
+  }
+  .image__me {
+    height: 223px;
+  }
+  .info__main {
+    font-size: 18px;
+  }
+  .info__desc {
+    flex: 10px;
+  }
+  .skills {
+    font-size: 18px;
+  }
+  .web1 {
+    width: 24%;
+    height: 36px;
+  }
+  .com1 {
+    width: 29%;
+    height: 36px;
+  }
+  .team1 {
+    width: 23%;
+    height: 36px;
+  }
+  .leader1 {
+    width: 27%;
+    height: 36px;
+  }
+  .mob1 {
+    width: 36%;
+    height: 36px;
+  }
+  .web {
+    font-size: 14px;
+    width: 60%;
+    height: 36px;
+  }
+  .com {
+    font-size: 14px;
+    width: 55%;
+    height: 36px;
+  }
+  .team {
+    font-size: 14px;
+    width: 61%;
+    height: 36px;
+  }
+  .leader {
+    font-size: 14px;
+    width: 57%;
+    height: 36px;
+  }
+  .mob {
+    font-size: 14px;
+    width: 48%;
+    height: 36px;
+  }
+  .block {
+    width: 95%;
+  }
+  .block1 {
+    font-size: 22px;
+  }
+}
+
+@media all and (max-width: 400px) {
+  .burger__icon {
+    display: block;
+    width: 10%;
+  }
+  .navbar__item {
+    display: none;
+  }
+  .footer__right {
+    padding-left: 50px;
+  }
+  .block {
+    margin-top: 87px;
+  }
+}
+
+@media all and (max-width: 362px) {
+  .navbar {
+    height: 40px;
+  }
+  .info__desc {
+    font-size: 10px;
+  }
+  .info__main {
+    font-size: 17px;
+  }
+  .skills {
+    font-size: 17px;
+  }
+  .block1 {
+    font-size: 17px;
+  }
+  .education__item {
+    font-size: 9px;
+  }
+  .block {
+    border: none;
+  }
+  .education__item {
+    width: 100%;
+  }
+  .loc {
+    font-size: 12px;
+  }
+  .loc__desc {
+    font-size: 12px;
+  }
+  .image__me {
+    width: 100%;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .image__me {
+    height: 194px;
+  }
+}
